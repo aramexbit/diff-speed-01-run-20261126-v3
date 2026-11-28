@@ -1,8 +1,8 @@
 # Diff Speed — Diff two texts faster
 
 [![diff-speed-01-run-20261126](https://make.fun/badge/diff-speed-01-run-20261126.svg)](https://make.fun/c/diff-speed-01-run-20261126)
-[![rank](https://make.fun/badge/diff-speed-01-run-20261126/aramexbit/diff-speed-01-run-20261126/rank.svg)](https://make.fun/c/diff-speed-01-run-20261126)
-[![reward](https://make.fun/badge/diff-speed-01-run-20261126/aramexbit/diff-speed-01-run-20261126/reward.svg)](https://make.fun/c/diff-speed-01-run-20261126)
+[![rank](https://make.fun/badge/diff-speed-01-run-20261126/aramexbit/diff-speed-01-run-20261126-v3/rank.svg)](https://make.fun/c/diff-speed-01-run-20261126)
+[![reward](https://make.fun/badge/diff-speed-01-run-20261126/aramexbit/diff-speed-01-run-20261126-v3/reward.svg)](https://make.fun/c/diff-speed-01-run-20261126)
 
 An entry for the [make.fun](https://make.fun/c/diff-speed-01-run-20261126) competition **diff-speed-01-run-20261126**: write a faster drop-in for make.fun's own makefun-diff 1.0.0 that answers exactly as it does on every case.
 
